@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notas>
+  <nota>
+    <id>1</id>
+    <titulo>Lista de la compra</titulo>
+    <contenido>-5 botes de pasta</contenido>
+    <categoria>Lista</categoria>
+    <fecha>23/05/2022 a las 16:35</fecha>
+  </nota>
+  <nota>
+    <id>2</id>
+    <titulo>Un dia de verano</titulo>
+    <contenido>Hoy hace un sol de california</contenido>
+    <categoria>Pensamiento</categoria>
+    <fecha>23/4/2022 a las 16:40</fecha>
+  </nota>
+</notas>
